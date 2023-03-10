@@ -1,0 +1,14 @@
+[Urls]
+login_url = https://discord.com/login
+root_url = https://discord.com/app
+chat_url =
+
+[Selectors]
+input_selector = div[data-slate-node="element"]
+
+[Time]
+work_time_in_minutes = 180
+message_repeat_time_in_seconds = 315
+
+[Text]
+text = /shrug
